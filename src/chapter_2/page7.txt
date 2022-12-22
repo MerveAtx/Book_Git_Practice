@@ -2,4 +2,4 @@ added this from github
 
 don`t do this normally
 
-we`re practicing and dowwards flow
+we`re practicing and downwards flow
